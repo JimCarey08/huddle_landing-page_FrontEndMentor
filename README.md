@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Githun Repo](https://github.com/JimCarey08/huddle_landing-page_FrontEndMentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://jimcarey08.github.io/huddle_landing-page_FrontEndMentor/)
 
 ## My process
 
